@@ -37,7 +37,7 @@ a {
 header {
     display: flex;
     position: fixed;
-    width: 510px;
+    width: 550px;
     height: 50px;
     color: antiquewhite;
     align-items: center;
@@ -455,4 +455,11 @@ textarea:focus{
         font-size: 20px;
     }
     
+}
+.estudios-item{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 35px;
+    margin-left: 20px;
 }
