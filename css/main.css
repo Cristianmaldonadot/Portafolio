@@ -38,7 +38,7 @@ a {
 header {
     display: flex;
     position: fixed;
-    width: 550px;
+    width: 650px;
     height: 50px;
     color: antiquewhite;
     align-items: center;
@@ -59,6 +59,9 @@ header {
     background: radial-gradient(ellipse 80% 80% at 50% -20%, rgba(120, 119, 198, 0.5), rgba(255, 255, 255, 0));
     z-index: -1;
 }
+.nav-title{
+    margin-bottom: 180px;
+}
 
 .nav-experiencia {
     width: auto;
@@ -70,9 +73,9 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: auto;
+    width: 580px;
     height: 50px;
-    gap: 20px;
+    gap: 30px;
 
 }
 
@@ -91,7 +94,7 @@ header {
 
 .logo {
     border-radius: 50px;
-    width: 50px;
+    width: 60px;
 }
 
 section {
